@@ -1,5 +1,9 @@
 # 📊 Tableau Project: Comparison of Region Based on Sales
 
+## 🌐 Live Dashboard
+You can explore the interactive Tableau dashboard here:  
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/shahbaaz.ahmed.shabbir.ahmed/viz/SampleSuperstore-ComparisonofRegionBasedonSales_17350628542330/Dashboard2?publish=yes)
+
 ## 📌 Project Overview
 This project analyzes and compares **sales performance** between two selected regions using the **Sample Superstore dataset** in Tableau.  
 The dashboard provides interactive parameters for **Primary Region** and **Secondary Region**, allowing users to compare sales side by side with tables, line graphs, bar charts, and maps.
